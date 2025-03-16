@@ -7,6 +7,12 @@
 </h1>
 
 <p align="center">
+
+
+<a href="https://t.me/sudoArchMage">
+  <img height="50" src="![image](https://github.com/user-attachments/assets/9c8f4064-114f-444d-a6e6-7b5da976ab4e)
+"/>
+</a>
 <a href="https://www.linkedin.com/in/kurlykqqq/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
