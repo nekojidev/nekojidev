@@ -20,6 +20,10 @@
 </p>
 
 ---
+<p align="center" >
+<img src="https://i.pinimg.com/originals/d5/6d/51/d56d51a1175fb838ee22e6ea336addad.gif" alt="Description of GIF" />
+
+</p>
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
