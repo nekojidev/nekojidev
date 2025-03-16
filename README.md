@@ -53,19 +53,20 @@ hobbies: ["Gaming", "Cinema", "Comedy", "Anime"]
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 
-<img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets&logoColor=white" alt="WebSockets" />
-<img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+
+<img src="https://img.shields.io/badge/JavaScript-ES6%2B-yellow" alt="JavaScript" width="80" />
+<img src="https://img.shields.io/badge/TypeScript-blue" alt="TypeScript" width="80" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" width="80" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="80" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" width="80" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" width="80" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" width="80" />
+<img src="https://img.shields.io/badge/WebSockets-000000?style=flat&logo=websockets&logoColor=white" alt="WebSockets" width="80" />
+<img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" width="80" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" width="80" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" width="80" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" width="80" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" width="80" />
 
 </p>
 
