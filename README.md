@@ -52,8 +52,8 @@ technical_background:
     "Junior Full Stack Developer"
   ]
   
-currently_learning: ["Nest.js"]
-2025 Goals: ["Learn Next.js and Nest.js"]
+currently_learning: ["Docker"]
+2025 Goals: ["Learn Next.js and Nest.js, Docker"]
 hobbies: ["Gaming", "Cinema", "Comedy", "Anime"]
 ```
   
