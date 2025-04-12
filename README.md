@@ -100,7 +100,7 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
   <table>
     <tr>
       <td align="center">
-        <img src="https://i.pinimg.com/originals/cb/c4/60/cbc46089e606d74db7b72ef669bedd9c.gif" width="250" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Demon Slayer" />
+        <img src="https://i.pinimg.com/originals/6b/ae/76/6bae76ec452e63c448b775e1f7077215.gif" width="250" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Demon Slayer" />
         <br>
         <strong>Favorite Anime:</strong> Demon Slayer
       </td>
