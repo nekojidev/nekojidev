@@ -112,9 +112,9 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
     </tr>
     <tr>
       <td align="center" colspan="2" style="padding: 15px;">
-        <img src="https://i.pinimg.com/originals/d9/f6/b7/d9f6b7bed716e54bf9ee96f74da84c14.gif" width="200" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Solo Leveling" />
+        <img src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" width="200" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Solo Leveling" />
         <br>
-        <strong>Currently Watching:</strong> Solo Leveling
+        <strong>Currently Watching:</strong> One Piece(episode 120 )
       </td>
     </tr>
   </table>
