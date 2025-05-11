@@ -105,16 +105,16 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
         <strong>Favorite Anime:</strong> Demon Slayer
       </td>
       <td align="center">
-        <img src="https://i.pinimg.com/originals/4e/98/ed/4e98ed37d7a8747864cc8018cd67bf9f.gif" width="250" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Blue Lock" />
+        <img src="https://i.pinimg.com/originals/dd/0b/01/dd0b012580f95b4aec04072b2e65107c.gif" width="250" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Blue Lock" />
         <br>
-        <strong>Favorite Anime:</strong> Blue Lock
+        <strong>Favorite Anime:</strong> One Piece
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2" style="padding: 15px;">
         <img src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" width="200" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Solo Leveling" />
         <br>
-        <strong>Currently Watching:</strong> One Piece(episode 120 )
+        <strong>Currently Watching:</strong> One Piece(episode 860)
       </td>
     </tr>
   </table>
@@ -132,14 +132,6 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
   <p>
     <i>"Set your heart ablaze." - Kyojuro Rengoku (Demon Slayer)</i>
   </p>
-</div>
-
-<!-- Anime Quote -->
-<div align="center">
-  <br/>
-  <img src="https://media.tenor.com/2ReUQeXk9psAAAAe/naruto.png" width="350" style="border-radius:10px;" alt="Anime Quote" />
-  <br/>
-  <i>"That's my ninja way!" - Naruto</i>
 </div>
 
 <div align="center">
