@@ -114,7 +114,7 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
       <td align="center" colspan="2" style="padding: 15px;">
         <img src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" width="200" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Solo Leveling" />
         <br>
-        <strong>Currently Watching:</strong> One Piece(episode 900)
+        <strong>Currently Watching:</strong> One Piece(episode 1130)
       </td>
     </tr>
   </table>
