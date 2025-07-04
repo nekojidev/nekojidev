@@ -39,8 +39,8 @@
 
 ```yaml
 name: Oleksandr Baranovskyi
-located_in: Berdychiv, Ukraine
-current_job: Full Stack Developer
+located_in: Kyiv, Ukraine
+current_job: Full Stack Developer at bn-digital
 education:
   [
   Professional Junior Bachelor Specialty Software engineering,
@@ -51,7 +51,7 @@ fields_of_interests:
   [
     "Web Development",
     "Games",
-    "Anime & Manga 👾"
+    "Anime👾"
   ]
 technical_background:
   [
