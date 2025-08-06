@@ -39,6 +39,7 @@
 
 ```yaml
 name: Oleksandr Baranovskyi
+age: 20
 located_in: Kyiv, Ukraine
 current_job: Full Stack Developer at bn-digital
 education:
@@ -59,7 +60,7 @@ technical_background:
   ]
   
 currently_learning: ["Docker", "Advanced Animation"]
-2025 Goals: ["Learn Next.js and Nest.js", "Master Docker", "Complete my Anime Streaming Platform"]
+2025 Goals: ["Master Docker", "Complete my Anime Streaming Platform"]
 current_project: ["Working on a MERN stack anime watching site"]
 hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
 ```
@@ -86,6 +87,9 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
   <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
   <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Firebase-20232A?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/NestJS-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
 </div>
 
 <!-- Blue gradient divider -->
@@ -114,7 +118,7 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
       <td align="center" colspan="2" style="padding: 15px;">
         <img src="https://i.pinimg.com/originals/0c/96/49/0c9649f0a491373305b741c3be3d35cc.gif" width="200" style="border-radius:10px; box-shadow: 0 3px 10px rgba(0,0,0,0.2);" alt="Solo Leveling" />
         <br>
-        <strong>Currently Watching:</strong> One Piece(episode 1131)
+        <strong>Currently Watching:</strong> One Piece(episode 1138)
       </td>
     </tr>
   </table>
@@ -124,13 +128,6 @@ hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
   <h3>🚀 Current Project: Anime Streaming Platform</h3>
   <p>
     I'm currently building a MERN stack anime watching site with a sleek UI and comprehensive anime database.
-  </p>
-</div>
-
-<div align="center">
-  <h3>💙 Anime-Inspired Coding Philosophy 💙</h3>
-  <p>
-    <i>"Set your heart ablaze." - Kyojuro Rengoku (Demon Slayer)</i>
   </p>
 </div>
 
