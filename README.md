@@ -44,7 +44,7 @@ current_job: Full Stack Developer at bn-digital
 education: [Software Engineer]
 
 fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
-technical_background: ["Junior Full Stack Developer"]
+technical_background: ["Full Stack Developer"]
 
 currently_learning: ["Docker", "Advanced Animation"]
 2025 Goals: ["Master Docker", "Complete my Anime Streaming Platform"]
