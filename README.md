@@ -38,7 +38,7 @@
 
 ```yaml
 name: Oleksandr Baranovskyi
-age: 20
+age: 21
 located_in: Kyiv, Ukraine
 current_job: Full Stack Developer at bn-digital
 education: [Software Engineer]
@@ -46,9 +46,9 @@ education: [Software Engineer]
 fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
 technical_background: ["Full Stack Developer"]
 
-currently_learning: ["Docker", "Advanced Animation"]
-2025 Goals: ["Master Docker", "Complete my Anime Streaming Platform"]
-current_project: ["Working on a MERN stack anime watching site"]
+currently_learning: ["Kubernetes" ]
+2026 Goals: ["Master Docker", "Complete my Linguist school"]
+current_project: ["Linguist school"]
 hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
 ```
 
