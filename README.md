@@ -46,7 +46,7 @@ education: [Software Engineer]
 fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
 technical_background: ["Full Stack Developer"]
 
-currently_learning: ["Kubernetes" ]
+currently_learning: ["Kubernetes"  ]
 2026 Goals: ["devOps learning", "Complete my Linguist school"]
 current_project: ["Linguist school"]
 hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
