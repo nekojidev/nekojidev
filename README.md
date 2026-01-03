@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:1a5276&text=Welcome!&fontColor=ffffff&height=120&section=header&animation=fadeIn&fontAlignY=30&fontSize=40"/>
-</div>
+</div> 
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Oleksandr!+%F0%9F%91%8B;Full+Stack+Developer;" alt="Typing SVG" />
