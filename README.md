@@ -46,8 +46,8 @@ education: [Software Engineer]
 fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
 technical_background: ["Full Stack Developer"]
 
-currently_learning: ["RabbitMQ"  ]
-2026 Goals: ["devOps learning", "Complete my Linguist school", "Digital Ocean"]
+currently_learning: [DevOps course]
+2026 Goals: ["devOps learning"]
 current_project: ["Linguist school"]
 hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
 ```
