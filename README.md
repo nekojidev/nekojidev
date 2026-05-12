@@ -40,7 +40,7 @@
 name: Oleksandr Baranovskyi
 age: 21
 located_in: Kyiv, Ukraine
-current_job: Full Stack Developer at bn-digital
+current_job: Full Stack Developer
 education: [Software Engineer]
 
 fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
@@ -48,7 +48,7 @@ technical_background: ["Full Stack Developer"]
 
 currently_learning: [DevOps course]
 2026 Goals: ["devOps learning"]
-current_project: ["Linguist school"]
+current_project: ["PixelCode"]
 hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
 ```
 
