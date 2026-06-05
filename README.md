@@ -21,11 +21,6 @@
   </a>
 </div>
  
-<div align="center">
-  <br/>
-  <img src="https://i.pinimg.com/originals/d5/6d/51/d56d51a1175fb838ee22e6ea336addad.gif" alt="Anime Developer" width="500" style="border-radius:15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);" />
-</div>
-
 <br/>
 
 <!-- Blue gradient divider -->
