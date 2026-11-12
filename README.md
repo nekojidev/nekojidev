@@ -35,16 +35,16 @@
 name: Oleksandr Baranovskyi
 age: 21
 located_in: Kyiv, Ukraine
-current_job: Full Stack Developer
+current_job: Full Stack Developer @ CleanConnect.ai
 education: [Software Engineer]
 
-fields_of_interests: ["Web Development", "Games", "Anime", "Films"]
+fields_of_interests: ["Web Development", "System Design", "Games", "Anime", "Films"]
 technical_background: ["Full Stack Developer"]
 
-currently_learning: [DevOps course]
-2026 Goals: ["devOps learning"]
-current_project: ["PixelCode"]
-hobbies: ["Gaming", "Anime", "Cinema", "Comedy"]
+currently_learning: ["System Design", "System Architecture"]
+goals_2026: ["Design systems that scale", "Go deeper into architecture", "Make better"]
+current_project: ["Leak Finder — detect + visualise"]
+hobbies: ["VibeCoding", "Guitar", "Humor", "Gaming", "Anime", "Cinema"]
 ```
 
 <!-- Blue gradient divider -->
